@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/amotulsky/Cat-shelter-final/static/css/main.f92e0621.css",
+    "main.js": "/amotulsky/Cat-shelter-final/static/js/main.e9d166ab.js",
+    "index.html": "/amotulsky/Cat-shelter-final/index.html",
+    "main.f92e0621.css.map": "/amotulsky/Cat-shelter-final/static/css/main.f92e0621.css.map",
+    "main.e9d166ab.js.map": "/amotulsky/Cat-shelter-final/static/js/main.e9d166ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f92e0621.css",
+    "static/js/main.e9d166ab.js"
+  ]
+}
